@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=badcristian)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=badcristian)
 <!--
 **badcristian/badcristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
