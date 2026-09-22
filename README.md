@@ -1,1 +1,1 @@
-you just README.md
+you just README
